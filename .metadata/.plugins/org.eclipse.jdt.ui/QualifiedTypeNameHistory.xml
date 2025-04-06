@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.shubham.OracleCon"/>
+    <fullyQualifiedTypeName name="com.shubham.Info"/>
+    <fullyQualifiedTypeName name="com.shubham.Process"/>
+    <fullyQualifiedTypeName name="com.model.StudentDao"/>
+    <fullyQualifiedTypeName name="com.model.StudentDaoImpl"/>
+    <fullyQualifiedTypeName name="com.model.Student"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.dao.CourseDao"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.model.Course"/>
+</qualifiedTypeNameHistroy>
